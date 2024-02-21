@@ -24,6 +24,7 @@ Algoritmos y Estructuras de Datos II, 2º curso del Grado en Ingeniería Inform�
 * **Sesión 4 (semana 19/02 - 23/02): Repaso**
 
   - [Ejercicios de repaso](sesiones/sesion4-repaso.pdf)
+  - [Soluciones de algunos ejercicios](sesiones/soluciones-sesion4.pdf) (¡puede haber errores en los cálculos!)
 
 ## Otros recursos
 
