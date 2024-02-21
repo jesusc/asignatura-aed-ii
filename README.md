@@ -21,6 +21,10 @@ Algoritmos y Estructuras de Datos II, 2º curso del Grado en Ingeniería Inform�
   - [Problemas propuestos de recurrencias](sesiones/sesion3-recurrencias.pdf)
   - [Explicación y ejercicios resueltos de recurrencias (homogéneas) utilizando la ecuación característica](https://discrete.openmathbooks.org/dmoi3/sec_recurrence.html). 
 
+* **Sesión 4 (semana 19/02 - 23/02): Repaso**
+
+  - [Ejercicios de repaso](sesiones/sesion4-repaso.pdf)
+
 ## Otros recursos
 
  - [Wolfram Alpha](https://www.wolframalpha.com/). Muy útil para comprobar soluciones incluyendo sumatorios, ecuaciones de recurrencia, etc. También se puede usar para dibujar gráficas.
