@@ -25,6 +25,7 @@ Algoritmos y Estructuras de Datos II, 2º curso del Grado en Ingeniería Inform�
 
   - [Ejercicios de repaso](sesiones/sesion4-repaso.pdf)
   - [Soluciones de algunos ejercicios](sesiones/soluciones-sesion4.pdf) (¡puede haber errores en los cálculos!)
+     - Fé de erratas: En el ejercicio 8(b), la ecuación de recurrencia no debe ser `t(n) = 4 * t(n - 1) + 1` si no `t(n) = t(n - 1) + 4 + 1` y por tanto la solución es incorrecta.
 
 ## Otros recursos
 
