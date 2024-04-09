@@ -34,7 +34,7 @@ void imprimir_tabla(int N, int M, int** tabla)
     cout << endl;
 }
 
-void reconstruir_solution(int N, int M, int pesos[], int** tabla)
+void reconstruir_solucion(int N, int M, int pesos[], int** tabla)
 {
   // Implementar despues del algoritmo de programación dinámica
 }
@@ -54,7 +54,7 @@ void mochila(int N, int pesos[], int beneficios[], int capacidad)
     imprimir_tabla(N, capacidad, tabla);
 
     cout << "Solución: " << resultado << endl;
-    reconstruir_solution(N, capacidad, pesos, tabla);
+    reconstruir_solucion(N, capacidad, pesos, tabla);
 
     for (int i = 0; i < N + 1; i++) {
         delete[] tabla[i];
