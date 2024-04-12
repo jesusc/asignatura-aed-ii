@@ -37,6 +37,7 @@ Algoritmos y Estructuras de Datos II, 2º curso del Grado en Ingeniería Inform�
 
   - [Problemas propuestos](sesiones-pd/pd-ejercicios-1.pdf)
   - [Esqueletos de código para implementar soluciones](sesiones-pd/esqueletos)
+  - [Soluciones implementadas en C++](sesiones-pd/soluciones)
   
 ## Otros recursos
 
