@@ -38,7 +38,12 @@ Algoritmos y Estructuras de Datos II, 2º curso del Grado en Ingeniería Inform�
   - [Problemas propuestos](sesiones-pd/pd-ejercicios-1.pdf)
   - [Esqueletos de código para implementar soluciones](sesiones-pd/esqueletos)
   - [Soluciones implementadas en C++](sesiones-pd/soluciones)
-  
+
+* **Sesión 2 (semana 15/04 - 19/04)**
+
+  - [Problemas propuestos](sesiones-pd/pd-ejercicios-2.pdf)
+  - [Esqueletos de código para implementar soluciones](sesiones-pd/esqueletos)
+
 ## Otros recursos
 
  - [Wolfram Alpha](https://www.wolframalpha.com/). Muy útil para comprobar soluciones incluyendo sumatorios, ecuaciones de recurrencia, etc. También se puede usar para dibujar gráficas.
