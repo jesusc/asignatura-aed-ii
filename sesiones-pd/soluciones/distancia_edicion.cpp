@@ -32,7 +32,7 @@
 //                          C A S O|    C A S O|
 //       porque al eliminar un caracter, se avanza en A pero no en B
 //
-//   - d_reemplazar = 1 + distancia_edicion(i + 1, j + 1)
+//   - d_reemplazar = 1 + distancia_edicion(i - 1, j - 1)
 //     * Ejemplo (i = 4):   C A S A|    C A S| A     
 //                          C A S O|    C A S| O
 //       porque al reemplazar un caracter, se avanza en ambos
